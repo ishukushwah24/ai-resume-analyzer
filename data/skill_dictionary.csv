@@ -1,0 +1,78 @@
+skill,category,aliases,roadmap_task
+Python,Programming,python3|py,Revise Python basics: functions and OOP and file handling and virtual environments
+SQL,Databases,structured query language|t-sql,Practise SQL joins and group by and window functions on a sample database
+Java,Programming,core java,Learn Java syntax and OOP and collections
+C++,Programming,cpp,Learn C++ basics and STL and pointers
+C#,Programming,csharp,Learn C# basics and LINQ
+R,Programming,r programming|r language,Learn R basics and tidyverse
+JavaScript,Programming,js|ecmascript,Learn modern JavaScript and DOM basics
+TypeScript,Programming,ts,Learn TypeScript types and interfaces
+Bash,Programming,shell scripting|shell script,Write shell scripts to automate small tasks
+MySQL,Databases,,Install MySQL and design a small relational schema
+PostgreSQL,Databases,postgres|psql,Set up PostgreSQL and practise advanced queries and indexes
+MongoDB,Databases,mongo,Build a small app with MongoDB collections
+SQLite,Databases,,Use SQLite from Python for a mini project
+NoSQL,Databases,,Understand document and key-value and graph stores
+Pandas,Data,,Do a data-cleaning project with Pandas (merge and groupby and pivot)
+NumPy,Data,,Practise NumPy arrays and broadcasting and vectorisation
+Excel,Data,ms excel|microsoft excel|excel dashboards,Learn pivot tables and lookups and an Excel dashboard
+Power BI,Data,powerbi|power-bi,Build a Power BI dashboard with DAX measures
+Tableau,Data,,Build an interactive Tableau dashboard
+Matplotlib,Data,,Create line and bar and scatter charts with Matplotlib
+Seaborn,Data,,Explore a dataset visually with Seaborn
+Plotly,Data,,Build interactive charts with Plotly
+Data Visualization,Data,data visualisation|data viz,Learn chart selection and storytelling with data
+Statistics,Data,statistical analysis|hypothesis testing,Revise descriptive stats and probability and hypothesis testing
+Data Cleaning,Data,data wrangling|data preprocessing|data preparation,Practise handling missing values and outliers and duplicates
+ETL,Data,data pipelines|data pipeline,Build a small extract-transform-load pipeline
+Machine Learning,ML,ml|machine-learning,Learn supervised and unsupervised ML and evaluation metrics
+scikit-learn,ML,sklearn|scikit learn,Build and tune models with scikit-learn pipelines
+Deep Learning,ML,neural networks|neural network|dl,Learn neural network basics and backpropagation
+TensorFlow,ML,tf,Train a small model with TensorFlow/Keras
+PyTorch,ML,torch,Train a small model with PyTorch
+Keras,ML,,Build a Keras sequential model
+XGBoost,ML,lightgbm|gradient boosting,Train and tune a gradient boosting model
+Feature Engineering,ML,feature selection,Practise encoding and scaling and feature selection
+Model Deployment,ML,deploy ml model|model serving|deployed model|deploying models,Deploy an ML model behind an API
+MLflow,ML,ml flow,Track experiments and register models with MLflow
+MLOps,ML,,Learn the ML lifecycle: tracking and CI/CD and monitoring
+NLP,NLP,natural language processing,Learn tokenisation and embeddings and text classification
+Transformers,NLP,transformer models|transformer architecture,Understand attention and transformer architecture
+Hugging Face,NLP,huggingface|hf transformers,Fine-tune a Hugging Face model on a small dataset
+spaCy,NLP,,Do NER and phrase matching with spaCy
+NLTK,NLP,,Practise text preprocessing with NLTK
+BERT,NLP,,Fine-tune BERT for text classification
+LLM,NLP,llms|large language models|large language model|generative ai|genai,Learn LLM basics and prompting and API usage
+RAG,NLP,retrieval augmented generation|retrieval-augmented generation,Build a RAG app with a vector store
+LangChain,NLP,langgraph,Build a chain or agent with LangChain
+Prompt Engineering,NLP,prompt design,Practise structured prompting and evaluation
+Computer Vision,CV,cv,Learn image tasks: classification and detection and segmentation
+OpenCV,CV,cv2|opencv-python,Do image processing and contour detection with OpenCV
+CNN,CV,convolutional neural network|convolutional neural networks|cnns,Build a CNN image classifier
+YOLO,CV,yolov5|yolov8,Train or run YOLO object detection on a custom dataset
+Image Processing,CV,image preprocessing,Learn filters and thresholding and augmentation
+FastAPI,Backend,fast api,Learn FastAPI routes and pydantic and async basics
+Flask,Backend,,Build a small REST service with Flask
+Django,Backend,,Build a CRUD app with Django
+REST API,Backend,rest apis|restful|restful api|api|apis|api development,Design and consume REST APIs and test with Postman
+Streamlit,Backend,,Build a dashboard with Streamlit
+Node.js,Backend,nodejs|node js,Build a small Express API with Node.js
+HTML,Web,html5,Learn semantic HTML
+CSS,Web,css3,Learn CSS layout with flexbox and grid
+React,Web,reactjs|react.js,Build a small React app
+Docker,Cloud & Tools,containerization|containerisation|dockerfile,Containerise an app with a Dockerfile and run it locally
+Kubernetes,Cloud & Tools,k8s,Learn pods and deployments and services
+AWS,Cloud & Tools,amazon web services|ec2|s3|sagemaker,Deploy a small app on AWS (EC2 or S3 or SageMaker)
+Azure,Cloud & Tools,microsoft azure,Deploy a small app on Azure
+GCP,Cloud & Tools,google cloud|google cloud platform|vertex ai,Deploy a small app on Google Cloud
+Cloud Deployment,Cloud & Tools,cloud computing|cloud deployment|cloud hosting,Deploy your project on a cloud platform (Render or Streamlit Cloud or AWS)
+Git,Cloud & Tools,version control,Learn branching and merging and pull requests
+GitHub,Cloud & Tools,github actions,Host projects on GitHub with good READMEs
+Linux,Cloud & Tools,ubuntu|unix,Practise the Linux command line and permissions
+CI/CD,Cloud & Tools,cicd|continuous integration|continuous deployment,Set up a CI pipeline with GitHub Actions
+Airflow,Cloud & Tools,apache airflow,Schedule a DAG with Apache Airflow
+Spark,Cloud & Tools,pyspark|apache spark,Process a dataset with PySpark
+Hadoop,Cloud & Tools,hdfs|mapreduce,Understand HDFS and MapReduce
+Jupyter,Cloud & Tools,jupyter notebook|jupyter notebooks|google colab,Document analysis in Jupyter notebooks
+Agile,Soft & Process,scrum|jira,Learn Agile and Scrum basics
+Unit Testing,Soft & Process,pytest|unittest|test cases,Write tests with pytest

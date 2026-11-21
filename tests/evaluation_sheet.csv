@@ -1,0 +1,4 @@
+test_resume,expected_top_role,actual_top_role,comments
+resume_a.docx,Data Analyst,Data Analyst,9 skills; top score 97.7%; PASS
+resume_b.docx,Machine Learning Engineer,Machine Learning Engineer,10 skills; top score 97.5%; PASS
+resume_c.docx,NLP Engineer,NLP Engineer,9 skills; top score 98.0%; PASS
