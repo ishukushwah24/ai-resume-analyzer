@@ -47,3 +47,5 @@ Dictionary/keyword matching misses unlisted skills and synonyms; scanned PDFs ne
 
 ## Still to do by you (deliverables)
 Replace sample resumes with your own anonymised ones, add architecture diagram image (use the mermaid above), record the demo video, write the short report, push to GitHub and deploy.
+
+##Live demo: [https://your-app-name.streamlit.app](https://ai-resume-analyzer-abpnz5289quqdevy7cewgt.streamlit.app/)
